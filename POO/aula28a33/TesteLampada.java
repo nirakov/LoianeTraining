@@ -1,3 +1,4 @@
+package aula28a33;
 public class TesteLampada {
     public static void main(String[] args) {
         Lampada sala = new Lampada("sala");

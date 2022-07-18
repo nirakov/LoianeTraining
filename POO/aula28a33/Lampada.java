@@ -1,4 +1,4 @@
-
+package aula28a33;
 public class Lampada {
     private String nome;
     private boolean status;

@@ -1,3 +1,4 @@
+package aula28a33;
 public class Aluno {
     private String nome;
     private int matricula = 0;
