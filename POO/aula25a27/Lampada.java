@@ -1,3 +1,5 @@
+package aula2527;
+
 public class Lampada{
     String modelo;
     String marca;

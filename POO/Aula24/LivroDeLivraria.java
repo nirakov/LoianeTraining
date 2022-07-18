@@ -1,3 +1,5 @@
+package aula24;
+
 public class LivroDeLivraria {
     String nome;
     String autor;

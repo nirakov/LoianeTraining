@@ -1,3 +1,5 @@
+package aula24;
+
 public class Carro{
     String modelo;
     String marca;

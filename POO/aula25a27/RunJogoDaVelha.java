@@ -1,3 +1,5 @@
+package aula2527;
+
 import java.util.Scanner;
 public class RunJogoDaVelha {
     public static void main(String[] args) {
