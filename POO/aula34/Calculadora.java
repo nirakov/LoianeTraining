@@ -19,12 +19,20 @@ public class Calculadora {
     }
 
     public static int potencia(int num, int potencia){
-        int p = p * num;
-        if(potencia == 1){
-            return num;
+        int resultado = 1;
+        for(int i = 0; i < potencia;i++){
+            resultado = resultado * num;
         }
-        return potencia(num,potencia-1);
-   
+       return resultado;
     }
+
+    public static int fatorial(int num){
+        int resultado = 1;
+        for(int i = 0; i < num; i++){
+            resultado = resultado * num;
+        }
+        return resultado;
+    }
+
     
 }
