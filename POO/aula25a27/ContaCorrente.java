@@ -1,4 +1,4 @@
-package aula2527;
+package aula25a27;
 
 public class ContaCorrente {
     int numero;
